@@ -1,4 +1,6 @@
-FreeSpace is a command-line bash script that compresses files and directories to save disk space. It is designed to be used in Linux operating systems. 
+FreeSpace
+===
+#### FreeSpace is a command-line bash script that compresses files and directories to save disk space. It is designed to be used in Linux operating systems. 
 
 The script uses the options -r, -t and file, and requires that you specify the file or directory you wish to compress. The -r option allows you to compress all files and directories within a directory recursively. The -t option allows you to specify the number of hours to keep files compressed before deleting them. 
 
